@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "arigatou",
+  "base_artist": "安室奈美恵",
+  "createdAt": "2026-01-02T16:32:16.351020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arigatou.Aishiteta Hito",
+      "artist": "Tiara; Spontania",
+      "has_synced": true,
+      "path": "select/01_Arigatou.Aishiteta_Hito_Tiara;_Spontania.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anata Ni Arigatou",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/02_Anata_Ni_Arigatou_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_Arigatou_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arigatou No Egao",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/04_Arigatou_No_Egao_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/05_Arigatou_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "Sammi Cheng",
+      "has_synced": true,
+      "path": "select/06_Arigatou_Sammi_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "鄭秀文",
+      "has_synced": true,
+      "path": "select/07_Arigatou_鄭秀文.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "arigatou",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/08_arigatou_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/09_Arigatou_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La La La Aiwo Arigatou",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/10_La_La_La_Aiwo_Arigatou_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lalala ~Ai wo Arigatou~ (ラララ ~愛をありがとう~)",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/11_Lalala_~Ai_wo_Arigatou~_(ラララ_~愛をありがとう~)_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiawaseo Arigatou",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/12_Shiawaseo_Arigatou_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gotoubun no Hanayome - Arigatou no Hana -",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/13_Gotoubun_no_Hanayome_-_Arigatou_no_Hana_-_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gotoubun no Hanayome ~Arigatou no Hana~",
+      "artist": "Nakanoke no Itsutsugo",
+      "has_synced": true,
+      "path": "select/14_Gotoubun_no_Hanayome_~Arigatou_no_Hana~_Nakanoke_no_Itsutsugo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Arigatou",
+      "artist": "Atari Kousuke",
+      "has_synced": false,
+      "path": "select/15_Arigatou_Atari_Kousuke.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dakara, Arigatou (So, Thank You)",
+      "artist": "Nanjo Yoshino",
+      "has_synced": true,
+      "path": "select/16_Dakara,_Arigatou_(So,_Thank_You)_Nanjo_Yoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "arigatou",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_01_arigatou_安室_奈美恵.txt"
+    }
+  ]
+}
